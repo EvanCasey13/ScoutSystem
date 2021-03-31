@@ -1,0 +1,124 @@
+<object-stream>
+  <list>
+    <BeaverScout>
+      <name>Evan</name>
+      <county>Tipperary</county>
+      <dateOfBirth>12/06/2001</dateOfBirth>
+      <address>Carrick on Suir</address>
+      <phoneNumber>083036884</phoneNumber>
+      <S2 class="SpecialInterest" serialization="custom">
+        <unserializable-parents/>
+        <list>
+          <default>
+            <size>0</size>
+          </default>
+          <int>0</int>
+        </list>
+        <SpecialInterest>
+          <default>
+            <dateBadgeReceived>17/05/2015</dateBadgeReceived>
+            <details>Silver medal</details>
+            <interestCategory>Swimming</interestCategory>
+          </default>
+        </SpecialInterest>
+      </S2>
+      <specialInterests class="SpecialInterest" serialization="custom">
+        <unserializable-parents/>
+        <list>
+          <default>
+            <size>0</size>
+          </default>
+          <int>0</int>
+        </list>
+        <SpecialInterest>
+          <default>
+            <dateBadgeReceived>12/06/2010</dateBadgeReceived>
+            <details>Gold medal</details>
+            <interestCategory>Running</interestCategory>
+          </default>
+        </SpecialInterest>
+      </specialInterests>
+      <parentPhone>0868273964</parentPhone>
+    </BeaverScout>
+    <CubScout>
+      <name>Conor</name>
+      <county>Tipperary</county>
+      <dateOfBirth>13/09/1999</dateOfBirth>
+      <address>Carrick on Suir</address>
+      <phoneNumber>083047623</phoneNumber>
+      <S2 class="SpecialInterest" serialization="custom">
+        <unserializable-parents/>
+        <list>
+          <default>
+            <size>0</size>
+          </default>
+          <int>0</int>
+        </list>
+        <SpecialInterest>
+          <default>
+            <dateBadgeReceived>25/04/2017</dateBadgeReceived>
+            <details>Gold medal</details>
+            <interestCategory>Swimming</interestCategory>
+          </default>
+        </SpecialInterest>
+      </S2>
+      <specialInterests class="SpecialInterest" serialization="custom">
+        <unserializable-parents/>
+        <list>
+          <default>
+            <size>0</size>
+          </default>
+          <int>0</int>
+        </list>
+        <SpecialInterest>
+          <default>
+            <dateBadgeReceived>19/08/2009</dateBadgeReceived>
+            <details>Gold medal in Running</details>
+            <interestCategory>Running</interestCategory>
+          </default>
+        </SpecialInterest>
+      </specialInterests>
+      <cubPhoneNumber>083083675</cubPhoneNumber>
+    </CubScout>
+    <Scouter>
+      <name>Jim</name>
+      <county>Kilkenny</county>
+      <dateOfBirth>25/04/1973</dateOfBirth>
+      <address>Piltown</address>
+      <phoneNumber>0830368831</phoneNumber>
+      <S2 class="SpecialInterest" serialization="custom">
+        <unserializable-parents/>
+        <list>
+          <default>
+            <size>0</size>
+          </default>
+          <int>0</int>
+        </list>
+        <SpecialInterest>
+          <default>
+            <dateBadgeReceived>23/09/2013</dateBadgeReceived>
+            <details>Silver medal</details>
+            <interestCategory>Swimming</interestCategory>
+          </default>
+        </SpecialInterest>
+      </S2>
+      <specialInterests class="SpecialInterest" serialization="custom">
+        <unserializable-parents/>
+        <list>
+          <default>
+            <size>0</size>
+          </default>
+          <int>0</int>
+        </list>
+        <SpecialInterest>
+          <default>
+            <dateBadgeReceived>01/03/2007</dateBadgeReceived>
+            <details>Gold medal in Running</details>
+            <interestCategory>Running</interestCategory>
+          </default>
+        </SpecialInterest>
+      </specialInterests>
+      <cubPhoneNumber>12/03/2020</cubPhoneNumber>
+    </Scouter>
+  </list>
+</object-stream>
